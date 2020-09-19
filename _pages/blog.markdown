@@ -6,9 +6,8 @@ permalink: /blog/
 
 <b>10 thuật ngữ chuyên ngành Data mining:</b>
  
-                    <ol>
-                        <li><b><i>Data Mining ( Khai phá dữ liệu ):</i></b> là quá trình phân tích và phát hiện các quy luật hoặc các mẫu thông tin hay tri thức hấp dẫn, hữu ích, chưa được biết đến ẩn chứa trong các tệp dữ liệu lớn.
-                        </li>
+<li><b><i>Data Mining ( Khai phá dữ liệu ):</i></b> là quá trình phân tích và phát hiện các quy luật hoặc các mẫu thông tin hay tri thức hấp dẫn, hữu ích, chưa được biết đến ẩn chứa trong các tệp dữ liệu lớn.
+ </li>
                         <li><b><i>Knowledge Discovery in Databases (KDD) (Phát hiện tri thức trong cơ sở dữ liệu): </i></b> là quá trình xây dựng và phát triển phương pháp và công cụ xử lý dữ liệu lớn nhằm mục đích phát hiện tri thức tiềm ẩn.
                         </li>
                         <li><b><i>Big Data ( Dữ liệu lớn ): </i></b>là tập các dữ liệu có khối lượng lớn và phức tạp.
